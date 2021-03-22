@@ -6,6 +6,8 @@ Monitoring all/selected apps's DNS queries with detailed information(application
 
 Force all/selected apps's DNS queries go through non-logging DoH/DNScrypt servers.
 
+Add block rules on apps/domains, work as a simple android firewall.
+
 Share/Copy DNS queries logs to anywhere you want.
 
 ## Usage Guide Video:
